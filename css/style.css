@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+#counter_part{
+    padding: 25px 0;
+    background: rgb(56, 226, 56);
+}
+.item_part{
+    display: flex;
+}
+.item{
+    width: 20%;
+    padding: 20px;
+    background: rgb(66, 66, 218);
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: rgb(61, 177, 96);
+}
+h3{
+    text-align: center;
+    padding-bottom: 20px;
+    color: blue;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+h1{
+    font-size: 70px;
+}
+#image{
+    background: black;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 397px;
+    width: 25%;
+}
